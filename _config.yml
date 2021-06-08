@@ -1,8 +1,9 @@
-#theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 title: Divverence.com Support Portal
 sitename:  Divverence.com Support Portal
 tagline: Divverence.com Support Portal
 description: Landing page for Divverence Support
+logo: Divverence.Raleway.png
 
 production_url : https://support.divverence.com
 url: https://support.divverence.com
